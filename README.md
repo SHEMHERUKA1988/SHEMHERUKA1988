@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @SHEMHERUKA1988
+### 👋 Hi, I’m @Shemheruka  
 - 👀 I’m interested in Web Designing and Programming
 - 🌱 I’m currently learning Django, frontend design, and ethical hacking.
 - 📫 How to reach me shemheruka1988@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 SHEMHERUKA/SHEMHERUKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ### 🔧 Technologies & Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
