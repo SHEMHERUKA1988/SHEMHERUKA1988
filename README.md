@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 🍔 Food Badges  
 <p align="left">
-  [<img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
+  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
 </p>
