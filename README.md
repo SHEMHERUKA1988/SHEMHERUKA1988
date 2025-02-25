@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔒 Security Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 
