@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 ### 🍔 Food Badges  
 <p align="left">
   <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
+  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
+  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
 </p>
 
 ### 👩‍💻 Languages 
@@ -27,5 +29,10 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 OS
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
+
+### 🔒 Security Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+</p>
 
 
