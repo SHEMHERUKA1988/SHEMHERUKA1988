@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m @Shemheruka  
+### 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗥𝗘𝗖𝗢𝗩𝗘𝗥𝗬 𝗖𝗢𝗡𝗦𝗨𝗟𝗧𝗔𝗡𝗧 
 - 👀 I’m interested in Web Designing and Programming
 - 🌱 I’m currently learning Django, frontend design, and ethical hacking.
 - 📫 How to reach me shemheruka1988@gmail.com
